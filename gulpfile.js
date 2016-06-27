@@ -29,22 +29,22 @@
  * Edit the variables as per your project requirements.
  */
 // Project related.
-var project                 = 'WPGulpTheme'; // Project Name.
-var projectURL              = 'wpgulp.dev'; // Project URL. Could be something like localhost:8888.
+var project                 = 'wp-progress-bar'; // Project Name.
+var projectURL              = 'http://server.dev/wp-admin/plugins.php'; // Project URL. Could be something like localhost:8888.
 var productURL              = './'; // Theme/Plugin URL. Leave it like it is, since our gulpfile.js lives in the root folder.
 
 // Translation related.
 var text_domain             = 'VR';
 var destFile                = 'VR.pot';
 var packageName             = 'VR';
-var bugReport               = 'http://WPTie.com/contact/';
-var lastTranslator          = 'Ahmad Awais <your_email@email.com>';
-var team                    = 'WPTie <your_email@email.com>';
+var bugReport               = 'http://prepareddevelopment.com';
+var lastTranslator          = 'Jamil Ahmed <jamil@prepareddevelopment.com>';
+var team                    = 'Prepared Development <jamil@prepareddevelopment.com>';
 var translatePath           = './languages'
 
 // Style related.
 var styleSRC                = './assets/css/style.scss'; // Path to main .scss file.
-var styleDestination        = './'; // Path to place the compiled CSS file.
+var styleDestination        = './assets/css/'; // Path to place the compiled CSS file.
 // Defualt set to root folder.
 
 // JS Vendor related.

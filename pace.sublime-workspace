@@ -1,0 +1,954 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ba",
+				"background"
+			],
+			[
+				"per",
+				"$permalink_with_http〔variable〕"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"do",
+				"do_shortcode"
+			],
+			[
+				"banner",
+				"banner1"
+			],
+			[
+				"firs",
+				"first_name"
+			],
+			[
+				"user_av",
+				"$user_avatar〔variable〕"
+			],
+			[
+				"printr",
+				"print_r($auth_desp_trimmed"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"input",
+				"inputs	input - submit"
+			],
+			[
+				"sub",
+				"submit"
+			],
+			[
+				"inputs",
+				"inputs	input - submit"
+			],
+			[
+				"di",
+				"$divisble〔variable〕"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"EXTR",
+				"EXTR_SKIP〔constant〕"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"links",
+				"links_array"
+			],
+			[
+				"post",
+				"postID"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"vi",
+				"viewport"
+			],
+			[
+				"rece",
+				"recentID"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"borde",
+				"border-radius"
+			],
+			[
+				"comm-",
+				"comm-block	Comment - Block style comment"
+			],
+			[
+				"com",
+				"comm-block	Comment - Block style comment"
+			],
+			[
+				"comm",
+				"comm-block	Comment - Block style comment"
+			],
+			[
+				"inlin",
+				"inline"
+			],
+			[
+				"comm-ht",
+				"comm-html-footer	Comment - HTML section footer"
+			],
+			[
+				"comm-h",
+				"comm-html-header	Comment - HTML section header"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"sa",
+				"satisfaction-bg.png	w:1790 h:492"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"bl",
+				"bl-4.png	w:387 h:153"
+			],
+			[
+				"us",
+				"usps-logo.png	w:398 h:65"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"ini",
+				"inherit"
+			],
+			[
+				"comm-s",
+				"comm-section-header	Comment - Section header comment"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"field",
+				"fieldm"
+			],
+			[
+				"last",
+				"lastnames"
+			],
+			[
+				"new",
+				"new_ID"
+			],
+			[
+				"cate",
+				"categories"
+			],
+			[
+				"cus",
+				"content-customarchive.php"
+			],
+			[
+				"cat",
+				"catId"
+			],
+			[
+				"book",
+				"bookId"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"co",
+				"comm	Comment - Single-line block comment"
+			],
+			[
+				"fon",
+				"font"
+			],
+			[
+				"titl",
+				"title	Attr"
+			],
+			[
+				"hr",
+				"href	Attr"
+			],
+			[
+				"the_",
+				"the_permalink"
+			],
+			[
+				"add",
+				"addClass	.addClass()"
+			],
+			[
+				"bord",
+				"border-right"
+			],
+			[
+				"prepend",
+				"prepend	.prepend()"
+			],
+			[
+				"pre",
+				"prepend	.prepend()"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"_",
+				"_blank"
+			],
+			[
+				"style",
+				"style	Attr"
+			],
+			[
+				"a",
+				"a	<a>"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"repla",
+				"replace_string"
+			],
+			[
+				"ta",
+				"target	Attr"
+			],
+			[
+				"h",
+				"href	Attr"
+			],
+			[
+				"pink",
+				"pink-ac"
+			],
+			[
+				"blue",
+				"blue-ac"
+			],
+			[
+				"purple",
+				"purple-ac"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"Print",
+				"print_r"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"pri",
+				"print_r"
+			],
+			[
+				"end",
+				"endif"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"block",
+				"Snippet: Comment - Block style comment"
+			],
+			[
+				"comment",
+				"Snippet: Comment - Section footer comment"
+			],
+			[
+				"html",
+				"Snippet: Comment - HTML section header"
+			],
+			[
+				"wrap",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"blocl",
+				"Snippet: Comment - Block style comment"
+			],
+			[
+				"php",
+				"Snippet: <?php … ?>"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"comm",
+				"Snippet: Comment - HTML comment"
+			],
+			[
+				"span",
+				"Snippet: <span>"
+			],
+			[
+				"Snippet: comm",
+				"Snippet: Comment - HTML section header"
+			],
+			[
+				"autopre",
+				"Autoprefix CSS"
+			],
+			[
+				"auto",
+				"Autoprefix CSS"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"",
+				"About"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 51.0,
+		"history":
+		[
+			"opendiff",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			"import urllib2,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation') "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/wamp/www/dev/wp-content/plugins/wp-progress-bar"
+	],
+	"file_history":
+	[
+		"/C/Users/Jamil/Desktop/WPGulp-master/WPGulp-master/.gitignore",
+		"/C/Users/Jamil/Desktop/jihad/authors.php",
+		"/C/Users/Jamil/Desktop/jihad/author.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/loop-region.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/loop-category 2.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/loop-category.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/category.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/content-author.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/functions.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/custom.css",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/custom.js",
+		"/C/Users/Jamil/Desktop/Divi/js/custom.js",
+		"/C/Users/Jamil/Desktop/Divi new/js/custom.js",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/single-project.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/page-template-blank.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/header.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/footer.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/style.css",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/style 2.css",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-1/functions.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-1/style.css",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-1/footer.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-1/footer 2.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-1/functions 2.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-1/custom.css",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-1/page-sitemap.php",
+		"/C/Users/Jamil/Desktop/Divi/page-template-blank.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-1/header.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-1/.htaccess",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-1/template-home.php",
+		"/C/wamp/www/facebook/fbtest.php",
+		"/C/wamp/www/facebook/tests/tests.php",
+		"/C/wamp/www/facebook/tests/SignedRequestTest.php",
+		"/C/wamp/www/facebook/tests/FacebookRequestTest.php",
+		"/C/wamp/www/facebook/tests/FacebookBatchResponseTest.php",
+		"/C/wamp/www/facebook/tests/FacebookBatchRequestTest.php",
+		"/C/wamp/www/fbtest.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-1/wp-config.php",
+		"/C/Users/Jamil/Desktop/Divi/404.php",
+		"/C/Users/Jamil/Desktop/Divi/style.css",
+		"/C/Users/Jamil/Desktop/jquery.smartbanner-master/jquery.smartbanner-master/jquery.smartbanner.js",
+		"/C/Users/Jamil/Desktop/smart-app-banner.js",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-1/add-smart-app-banner.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-1/smart-app-banner.js",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-1/single.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/style 3.css",
+		"/C/Users/Jamil/Desktop/cedar/assets/css/theme.css",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/functions 4.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/single 3.php",
+		"/C/Users/Jamil/Desktop/cedar/layouts/cover_blogtitle.php",
+		"/C/Users/Jamil/Desktop/cedar/layouts/header_bloginfo.php",
+		"/C/Users/Jamil/Desktop/cedar/layouts/cover_blogtitle_post.php",
+		"/C/Users/Jamil/Desktop/cedar/layouts/header_fixed.php",
+		"/C/Users/Jamil/Desktop/cedar/layouts/posttitle.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/wp-config 2.php",
+		"/C/Users/Jamil/Desktop/cedar/layouts/authorinfo.php",
+		"/C/Users/Jamil/Desktop/cedar/functions.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/custom 2.js",
+		"/C/Users/Jamil/Desktop/Divi/options_divi.php",
+		"/C/Users/Jamil/Desktop/Divi/includes/builder/functions.php",
+		"/C/Users/Jamil/Desktop/Divi/single.php",
+		"/C/Users/Jamil/Desktop/Divi Builder Layout.json",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/loop-author.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/header 4.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/yyy.php",
+		"/C/Users/Jamil/Desktop/divi-booster/divi-booster.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/footer 3.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/functions 5.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/author 2.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/loop-blog 2.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/template-blog 2.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/template-publish.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/custom 2.css",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/functions 3.php",
+		"/C/Users/Jamil/Desktop/mailchimp.1.4.5/mailchimp/mailchimp_widget.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/single 2.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/header 3.php",
+		"/C/Users/Jamil/Desktop/jihad/style.css",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/content-newposts.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/content-post 2.php",
+		"/C/Users/Jamil/Desktop/wordpress-seo.3.2.5/wordpress-seo/frontend/class-opengraph.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/loop-blog.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/template-blog.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/template-newblog.php",
+		"/C/Users/Jamil/Desktop/avatar-manager.1.6.1/avatar-manager/avatar-manager.php",
+		"/C/wamp/www/dev/wp-config-live.php",
+		"/C/wamp/www/dev/wp-config.php",
+		"/C/Users/Jamil/Desktop/canvas theme/canvas 5.9.21/canvas/page.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/page-your-profile.php",
+		"/C/Users/Jamil/Desktop/canvas theme/canvas 5.9.21/canvas/template-sitemap.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/profile-form.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/register-form.php",
+		"/C/Users/Jamil/Desktop/canvas theme/canvas 5.9.21/canvas/includes/theme-actions.php",
+		"/C/Users/Jamil/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/sidebar-userinfo.php",
+		"/C/Users/Jamil/AppData/Roaming/Sublime Text 3/Packages/Sublimerge Pro/Sublimerge.sublime-settings",
+		"/C/Users/Jamil/AppData/Roaming/Sublime Text 3/Packages/Sublimerge Pro/Custom Comparisons.sublime-settings",
+		"/C/Users/Jamil/Desktop/canvas theme/canvas 5.9.21/canvas/sidebar-alt.php",
+		"/C/Users/Jamil/Desktop/theme-my-login.6.4.4/theme-my-login/templates/user-panel.php",
+		"/C/Users/Jamil/Desktop/theme-my-login.6.4.4/theme-my-login/templates/ms-signup-another-blog-form.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/single.php",
+		"/C/wamp/www/test.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/content-post.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/auhtor.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/content-singlepost.php",
+		"/C/Users/Jamil/Desktop/canvas theme/canvas 5.9.21/canvas/includes/widgets/widget-woo-blogauthor.php",
+		"/C/wamp/www/dev/wp-content/themes/twentyfourteen/functions.php",
+		"/C/Users/Jamil/Desktop/canvas theme/canvas 5.9.21/canvas/loop-archive.php",
+		"/C/Users/Jamil/Desktop/canvas theme/canvas 5.9.21/canvas/archive.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/template-registerpage.php",
+		"/C/wamp/www/tagove/demo.php",
+		"/C/wamp/www/tagove/custom-theme/css/custom.scss",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/template-sitemap 2.php",
+		"/C/Users/Jamil/Desktop/canvas theme/canvas 5.9.21/canvas/template-blog.php",
+		"/C/Users/Jamil/Desktop/client_secret_593693591063-r44cfhv11neqd73q3cdrv5qtvjn86vta.apps.googleusercontent.com.json",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/.htaccess 2",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/header 2.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/wp-config 3.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/X-50i5giXpCttC4hmZ29hFK2EScWLSOpFM7cdU8BN38",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/.htaccess",
+		"/C/Users/Jamil/Desktop/id_rsa.pub",
+		"/C/wamp/www/dev.ftalez.com/wp-config.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/index 2.php",
+		"/C/wamp/www/tagove/test.html",
+		"/C/wamp/www/skeleton/skeleton.html",
+		"/C/wamp/www/tagove/custom-theme/css/custom-dist.css",
+		"/C/wamp/www/tagove/custom-theme/css/custom.css"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 140.0,
+		"where_history":
+		[
+			"C:\\Users\\Jamil\\Desktop\\cedar",
+			"C:\\Users\\Jamil\\Desktop\\Divi",
+			"C:\\Users\\Jamil\\Desktop\\wordpress-seo.3.2.5\\wordpress-seo",
+			"C:\\Users\\Jamil\\Desktop\\canvas theme\\canvas 5.9.21\\canvas",
+			"C:\\Users\\Jamil\\Desktop\\canvas theme\\canvas 5.9.19\\canvas",
+			"C:\\Users\\Jamil\\Desktop\\canvas-child",
+			"C:\\Users\\Jamil\\Desktop\\canvas theme\\canvas 5.9.19\\canvas",
+			"C:\\Users\\Jamil\\Desktop\\wp-pdf-templates.1.4.1\\wp-pdf-templates",
+			"C:\\Users\\Jamil\\Desktop\\infusionsoft.1.5.11\\infusionsoft",
+			"C:\\Users\\Jamil\\Desktop\\canvas theme\\canvas 5.9.15\\canvas",
+			"C:\\Users\\Jamil\\Desktop\\canvas theme\\canvas 5.9.12\\canvas",
+			"D:\\DATA (F)\\Softwares\\web designing\\Freelancer Data\\Projects\\Kristian Projects\\martinerichsen.dk\\backup\\canvas-child",
+			"D:\\DATA (F)\\Softwares\\web designing\\Freelancer Data\\Projects\\Kristian Projects\\martinerichsen.dk\\backup\\canvas",
+			"C:\\Users\\Jamil\\Desktop\\canvas theme\\canvas 5.9.12\\canvas",
+			"D:\\DATA (F)\\Softwares\\web designing\\Freelancer Data\\Projects\\Kristian Projects\\QuotesCompanion.com\\backup\\canvas\\canvas\\canvas",
+			"C:\\Users\\Jamil\\Desktop\\canvas theme\\canvas 5.9.11\\canvas",
+			"C:\\Users\\Jamil\\Desktop\\flatsome\\",
+			"C:\\Users\\Jamil\\Desktop\\dompdf-0.6.1\\dompdf",
+			"C:\\wamp\\www\\gingerorganicserver",
+			"D:\\DATA (F)\\Softwares\\web designing\\Freelancer Data\\Projects\\Kristian Projects\\QuotesCompanion.com\\backup\\canvas\\canvas\\canvas",
+			"D:\\DATA (F)\\Softwares\\web designing\\Freelancer Data\\Projects\\Kristian Projects\\QuotesCompanion.com\\backup\\canvas-child",
+			"C:\\Users\\Jamil\\Desktop\\phpBB-3.1.3",
+			"C:\\wamp\\www\\gingerorganic\\themes\\ginger",
+			"C:\\Users\\Jamil\\Desktop\\umer1970\\",
+			"C:\\Users\\Jamil\\Desktop\\umer1970\\themes\\default-bootstrap",
+			"D:\\DATA (F)\\Softwares\\web designing\\Freelancer Data\\Projects\\Kristian Projects\\GingerOrganic.dk\\modules\\customfields",
+			"C:\\Users\\Jamil\\Desktop\\umer1970",
+			"D:\\DATA (F)\\Softwares\\web designing\\Freelancer Data\\Projects\\Kristian Projects\\GingerOrganic.dk\\modules\\productlistattributes\\productlistattributes",
+			"D:\\DATA (F)\\Softwares\\web designing\\Freelancer Data\\Projects\\Kristian Projects\\GingerOrganic.dk\\modules\\v4.0.4-subscriptionsmanager\\subscriptionsmanager",
+			"D:\\DATA (F)\\Softwares\\web designing\\Freelancer Data\\Projects\\Kristian Projects\\GingerOrganic.dk\\modules\\productlistattributes\\productlistattributes",
+			"D:\\DATA (F)\\Softwares\\web designing\\Freelancer Data\\Projects\\Kristian Projects\\GingerOrganic.dk\\modules\\quickpay-3.26\\quickpay",
+			"C:\\Users\\Jamil\\Desktop\\SmartSend-PrestaShopCarrier-v109beta",
+			"D:\\DATA (F)\\Softwares\\web designing\\Freelancer Data\\Projects\\Kristian Projects\\GingerOrganic.dk\\Backup\\jamilginger10\\ginger",
+			"D:\\DATA (F)\\Softwares\\web designing\\Freelancer Data\\Projects\\Kristian Projects\\GingerOrganic.dk\\modules\\quickpay-3.26\\quickpay",
+			"C:\\Users\\Jamil\\Desktop\\umer1970",
+			"D:\\DATA (F)\\Softwares\\web designing\\Freelancer Data\\Projects\\Kristian Projects\\GingerOrganic.dk\\modules\\quickpay-3.26\\quickpay",
+			"D:\\DATA (F)\\Softwares\\web designing\\Freelancer Data\\Projects\\Kristian Projects\\GingerOrganic.dk\\Backup\\jamilginger10\\ginger",
+			"D:\\DATA (F)\\Softwares\\web designing\\Freelancer Data\\Projects\\Kristian Projects\\GingerOrganic.dk\\modules\\quickpay-3.26\\quickpay",
+			"C:\\Users\\Jamil\\Desktop\\umer1970",
+			"D:\\DATA (F)\\Softwares\\web designing\\Freelancer Data\\Projects\\Kristian Projects\\GingerOrganic.dk\\Backup\\jamilginger10\\ginger",
+			"C:\\wamp\\www\\gingerorganic",
+			"D:\\DATA (F)\\Softwares\\web designing\\Freelancer Data\\Projects\\Kristian Projects\\GingerOrganic.dk\\Backup\\jamilginger10\\ginger",
+			"D:\\DATA (F)\\Softwares\\web designing\\Freelancer Data\\Projects\\Kristian Projects\\GingerOrganic.dk\\Backup\\ginger-new",
+			"D:\\DATA (F)\\Softwares\\web designing\\Freelancer Data\\Projects\\Kristian Projects\\GingerOrganic.dk\\Backup\\jamilginger10\\ginger",
+			"C:\\wamp\\www\\gingerorganic",
+			"D:\\DATA (F)\\Softwares\\web designing\\Freelancer Data\\Projects\\Kristian Projects\\GingerOrganic.dk\\Backup\\jamilginger10\\ginger",
+			"C:\\Users\\Jamil\\Desktop\\productlistattributes",
+			"D:\\DATA (F)\\Softwares\\web designing\\Freelancer Data\\Projects\\Kristian Projects\\GingerOrganic.dk\\Backup\\jamilginger10\\ginger",
+			"C:\\Users\\Jamil\\Desktop\\productlistattributes",
+			"D:\\DATA (F)\\Softwares\\web designing\\Freelancer Data\\Projects\\Kristian Projects\\GingerOrganic.dk\\Backup\\jamilginger10\\ginger",
+			"D:\\DATA (F)\\Softwares\\web designing\\Freelancer Data\\Projects\\Kristian Projects\\GingerOrganic.dk\\Backup\\jamilginger10",
+			"D:\\DATA (F)\\Softwares\\web designing\\Freelancer Data\\Projects\\Kristian Projects\\GingerOrganic.dk\\Backup\\ginger-new",
+			"D:\\DATA (F)\\Softwares\\web designing\\Freelancer Data\\Projects\\Kristian Projects\\GingerOrganic.dk\\modules\\productlistattributes\\productlistattributes",
+			"D:\\DATA (F)\\Softwares\\web designing\\Freelancer Data\\Projects\\Kristian Projects\\GingerOrganic.dk\\Backup\\ginger-new",
+			"C:\\Users\\Jamil\\Desktop\\woocommerce\\woocommerce\\",
+			"C:\\Users\\Jamil\\Desktop\\woocommerce\\woocommerce\\templates",
+			"C:\\Users\\Jamil\\Desktop\\woocommerce\\woocommerce\\",
+			"C:\\Users\\Jamil\\Desktop\\woocommerce\\woocommerce\\templates",
+			"D:\\DATA (F)\\Softwares\\web designing\\Freelancer Data\\Projects\\Kristian Projects\\GingerOrganic.dk\\Backup\\ginger-new",
+			"C:\\wamp\\www\\dev\\wp-content\\themes\\wp-lynx",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"talesalphabet",
+			"p:first-child:first-letter",
+			"tag",
+			"box-story",
+			"box-story article",
+			"et_pb_smooth_scroll",
+			"scrollTop :  $scroll_position",
+			"$( 'html, body' ).animate( { scrollTop ",
+			"a[href*=#]:not",
+			"#footer div.inner div.two_third div.one_third",
+			".",
+			"@media",
+			"trunk",
+			"display-posts",
+			"referen",
+			"url",
+			"wpseo_canonical",
+			"@media",
+			"$.smartbanner.defaults",
+			"smartbanner-close",
+			".postitem .meta .category",
+			".et_pb_fullwidth_header_scroll",
+			".et_pb_fullwidth_header .et_pb_fullwidth_header_scroll",
+			".et_pb_fullwidth_header_overlay",
+			".et_pb_fullwidth_header_0.et_pb_fullwidth_header .et_pb_fullwidth_header_overlay",
+			".postitem .meta .category\na",
+			"../",
+			".fa",
+			".pagewrapper",
+			".widget.authorprofile",
+			"body.single-post .pagewrapper .widget.authorprofile",
+			"body.single-post .pagewrapper\n.widget.authorprofile",
+			"profile",
+			"themeslug",
+			"profile",
+			"ECKO_WIDGET_AUTHOR_PROFILE",
+			"widget",
+			"authorprofile",
+			"bottom",
+			"Add code to the bottom of your posts, before the comments",
+			"et_after_content",
+			"do_action",
+			"\\",
+			"[/",
+			"\\",
+			"/",
+			"SelectedStory_Widget",
+			"$user_info",
+			"SelectedStory_Widget",
+			"u_talez",
+			"SelectedStory_Widget",
+			"jetpack_images_get_images",
+			"_get_title",
+			"_get_excerpt",
+			"title attribute",
+			"selected",
+			"first",
+			"#cookie-law-info-bar",
+			"mailchimp_form_field",
+			"<label",
+			"$permalink_with_http",
+			"addthis",
+			"url",
+			"og:url",
+			"$_FILES",
+			"$ut_ubanner",
+			"$attachment_id",
+			"update_user_meta",
+			"$attachment_id",
+			"update_user_meta",
+			"admin_user_photo",
+			"$attachment_id",
+			"avatar_manager_default_size",
+			"AVATAR_MANAGER_DEFAULT_SIZE",
+			"banner2",
+			"get_the_author_meta( 'banner', $user->ID)",
+			"Mandarin",
+			"language",
+			"<?php echo esc_attr(get_the_author_meta( 'banner', $user->ID )); ?>",
+			"banner1",
+			"avatar-manager-upload",
+			"avatar_manager_import",
+			"<th><label for=\"banner1\">Facebook Profile</label></th>",
+			"facebook_profile",
+			"twitter_profile",
+			"facebook_profile",
+			"$curauth",
+			"$current_user",
+			" choose an image from your media library:",
+			"woo_author_box",
+			"message",
+			"status",
+			"licens",
+			"do_action",
+			"woo_author",
+			"success",
+			"woo_author_box",
+			"post-author",
+			"About ",
+			"View all posts",
+			"avatar",
+			"woo_logo",
+			"woo_header_inside",
+			"http://",
+			"home-main-en.png",
+			"http://prepareddevelopment.com/wp-content/themes/pd-child/images/services-community-small.png",
+			"http://",
+			"services-community-small.png",
+			"http://",
+			"http",
+			"yoursite.com",
+			"foo.com",
+			"RewriteEngine On",
+			"https",
+			"closepop()",
+			"email-popup",
+			" Mobile Speciic Css using User ageent",
+			".fd-sbtn",
+			"class",
+			".gform_wrapper",
+			"li#field_1_1 input[type=\"text\"]",
+			"x",
+			"$n",
+			"$prime",
+			"prime",
+			"$num",
+			"$divisble",
+			"#sidebar .widget .fd-sbtn"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"[",
+			"",
+			"https://",
+			"<?php echo site_url( '/wp-content/themes/nictitate-XACT', 'https' ); ?>",
+			"https",
+			"http",
+			"https",
+			"index",
+			"http://",
+			".lp-testslider h2",
+			".quote-carousel",
+			"-width",
+			"only screen and ",
+			"",
+			".gform_widget",
+			"http://fairytalez.com/",
+			".feedback-thanks",
+			"feedthnks-popup",
+			"height=\"29\"",
+			"url('http://fairytalez.com/wp-content/themes/canvas-child/fonts/",
+			"index2_files",
+			"index2",
+			"li",
+			"h2",
+			"history.php",
+			"<br />",
+			".accounts-sub",
+			"Source Sans Pro",
+			"initial",
+			"getProducts",
+			".my-coupons-page",
+			"$my_ID",
+			"$term->ID"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "pace.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Jamil\\AppData\\Roaming\\Sublime Text 3\\Packages\\Autoprefixer\\Autoprefixer.sublime-settings"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 224.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,11 +1,11 @@
 {
-  "name": "WPGulp",
-  "author": "ahmadawais",
-  "version": "1.0.2",
+  "name": "wp-progress-bar",
+  "author": "Jamil Ahmed",
+  "version": "1.0.0",
   "license": "GPL-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ahmadawais/WPGulp"
+    "url": "https://github.com/jimi008/WordPress-progress-bar"
   },
   "dependencies": {},
   "devDependencies": {
